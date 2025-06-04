@@ -20,7 +20,7 @@ A stylish and responsive calculator built using Java Swing. This desktop applica
 
 ## 📸 Preview
 
-![Calculator Screenshot](./screenshot.png)
+<img src="./screenshot.png" alt="Calculator Screenshot" width="300"/>
 
 ## 🛠️ Tech Stack
 
